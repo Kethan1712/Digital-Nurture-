@@ -1,0 +1,18 @@
+.textRed{
+    color:red;
+    font-weight:bold;
+}
+
+.textGreen{
+    color:green;
+    font-weight:bold;
+}
+
+.container{
+    margin:30px;
+    font-family:Arial;
+}
+
+img{
+    margin-bottom:20px;
+}
